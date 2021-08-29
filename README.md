@@ -6,8 +6,8 @@
 </p>
 
 
-- 🔭 I’m currently working on **Deep Learning Emphysema Subtypes at Columbia University HBIL**
-- 🌱 I’m currently learning **Batch Scripting and TensorFlow**
-- 💬 Ask me about **Brain Computer Interfaces, Python, and Art**
-- 📫 How to reach me: [@gkenefati](https://twitter.com/gkenefati) on Twitter
-- ⚡ Fun fact: I recently spoke with the Mayor of NYC, check it out [here](https://youtu.be/o_YdFNFyBOs?t=1488)!
+- 🔭  I’m currently working on **Deep Learning Emphysema Subtypes at Columbia University HBIL**
+- 🌱  I’m currently learning **Batch Scripting and TensorFlow**
+- 💬  Ask me about **Brain Computer Interfaces, Python, and Art**
+- 📫  How to reach me: [@gkenefati](https://twitter.com/gkenefati) on Twitter
+- ⚡  Fun fact: I recently spoke with the Mayor of NYC, check it out [here](https://youtu.be/o_YdFNFyBOs?t=1488)!
